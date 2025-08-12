@@ -1,2 +1,2 @@
-this is my new file two for git course
+this is my newgit  file two for git course
 adding more content file two
