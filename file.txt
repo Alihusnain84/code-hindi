@@ -1,2 +1,0 @@
-this is my first git code
-add more content to file one
