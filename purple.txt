@@ -1,2 +1,3 @@
 git New Purple file is add in git folder
 hello the world 
+text message
